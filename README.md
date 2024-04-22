@@ -45,7 +45,6 @@ Este é um sistema de controle financeiro básico implementado em Python. O sist
 
 ## Exemplo de Uso
 
-```bash
 python controle_financeiro.py
 Certifique-se de ter o Python 3.x (ou superior) instalado no seu sistema.
 
